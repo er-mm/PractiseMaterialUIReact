@@ -1,3 +1,15 @@
+## Image Optimization
+
+Always use SVG: Responsive, small, customizable
+
+## Some links to manipulate or make svg
+https://tinyjpg.com/,
+https://jakearchibald.github.io/svgomg/,
+https://open.nytimes.com/flexible-icons-with-react-svg-973f310e6382,
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
